@@ -1,6 +1,6 @@
 # about-me
 ## Respository Links
-- [Source Repository](https://github.com/pavanreddy4227/about-me/edit/master/README.md)
+- [Source Repository](https://github.com/pavanreddy4227/about-me)
 - [Hosted page](https://pavanreddy4227.github.io/about-me/)
 ## About
 This repository is about me and about tools and resources used in github
